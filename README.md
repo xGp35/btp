@@ -1,1 +1,1 @@
-# Infornation Extraction from Literary Data
+# Information Extraction from Literary Data
