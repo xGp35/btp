@@ -1,0 +1,6 @@
+annotators = tokenize,ssplit,pos,lemma,ner,parse,depparse,coref
+
+coref.algorithm = neural
+
+outputFormat = serialized
+
